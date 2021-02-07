@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------
+
+This app fetches images from the imgur gallery using the imgur api
+and displays them on a web-page using react and node.
+
+The request is done at the start, so your should see images after a few seconds load on the right hand side.
+
+Instructions to run are below.
+
+Thanks,
+
+Jonathan
+
+------------------------------------------------------------------------------------
+To start the server (http://localhost:1234): |
+--------------------------------------------
+1. node ./server/index.js
+--------------------------------------------
+To start the client (http://localhost:3000): |
+--------------------------------------------
+1. *open a new tab*
+2. cd client
+3. npm start
+--------------------------------------------
